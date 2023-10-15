@@ -1,0 +1,9 @@
+C:\Users\Jason\documents\visual studio 2012\Projects\MUSIC PROGRAM\MUSIC PROGRAM\bin\Debug\MUSIC PROGRAM.exe.config
+C:\Users\Jason\documents\visual studio 2012\Projects\MUSIC PROGRAM\MUSIC PROGRAM\bin\Debug\MUSIC PROGRAM.exe
+C:\Users\Jason\documents\visual studio 2012\Projects\MUSIC PROGRAM\MUSIC PROGRAM\bin\Debug\MUSIC PROGRAM.pdb
+C:\Users\Jason\documents\visual studio 2012\Projects\MUSIC PROGRAM\MUSIC PROGRAM\obj\Debug\MUSIC PROGRAM.csprojResolveAssemblyReference.cache
+C:\Users\Jason\documents\visual studio 2012\Projects\MUSIC PROGRAM\MUSIC PROGRAM\obj\Debug\MUSIC_PROGRAM.Form1.resources
+C:\Users\Jason\documents\visual studio 2012\Projects\MUSIC PROGRAM\MUSIC PROGRAM\obj\Debug\MUSIC_PROGRAM.Properties.Resources.resources
+C:\Users\Jason\documents\visual studio 2012\Projects\MUSIC PROGRAM\MUSIC PROGRAM\obj\Debug\MUSIC PROGRAM.csproj.GenerateResource.Cache
+C:\Users\Jason\documents\visual studio 2012\Projects\MUSIC PROGRAM\MUSIC PROGRAM\obj\Debug\MUSIC PROGRAM.exe
+C:\Users\Jason\documents\visual studio 2012\Projects\MUSIC PROGRAM\MUSIC PROGRAM\obj\Debug\MUSIC PROGRAM.pdb
